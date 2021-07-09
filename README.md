@@ -8,35 +8,35 @@ ng add @angular/pwa --project pwa
 
 Step 2 : ClI will generate files and do nessary changes in angular.json, package.json, app.module.ts and index.html as below
 
-CREATE ngsw-config.json (624 bytes)
+  CREATE ngsw-config.json (624 bytes)
 
-CREATE src/manifest.webmanifest (1330 bytes)
+  CREATE src/manifest.webmanifest (1330 bytes)
 
-CREATE src/assets/icons/icon-128x128.png (1253 bytes)
+  CREATE src/assets/icons/icon-128x128.png (1253 bytes)
 
-CREATE src/assets/icons/icon-144x144.png (1394 bytes)
+  CREATE src/assets/icons/icon-144x144.png (1394 bytes)
 
-CREATE src/assets/icons/icon-152x152.png (1427 bytes)
+  CREATE src/assets/icons/icon-152x152.png (1427 bytes)
 
-CREATE src/assets/icons/icon-192x192.png (1790 bytes)
+  CREATE src/assets/icons/icon-192x192.png (1790 bytes)
 
-CREATE src/assets/icons/icon-384x384.png (3557 bytes)
+  CREATE src/assets/icons/icon-384x384.png (3557 bytes)
 
-CREATE src/assets/icons/icon-512x512.png (5008 bytes)
+  CREATE src/assets/icons/icon-512x512.png (5008 bytes)
 
-CREATE src/assets/icons/icon-72x72.png (792 bytes)
+  CREATE src/assets/icons/icon-72x72.png (792 bytes)
 
-CREATE src/assets/icons/icon-96x96.png (958 bytes)
+  CREATE src/assets/icons/icon-96x96.png (958 bytes)
 
-UPDATE angular.json (3430 bytes)  it will add serviceWorker: true
+  UPDATE angular.json (3430 bytes)  it will add serviceWorker: true
 
-UPDATE package.json (1107 bytes)
+  UPDATE package.json (1107 bytes)
 
-UPDATE src/app/app.module.ts (789 bytes)
+  UPDATE src/app/app.module.ts (789 bytes)
 
-UPDATE src/index.html (471 bytes)
+  UPDATE src/index.html (471 bytes)
 
-√ Packages installed successfully.
+  √ Packages installed successfully.
 
 
 Step 3 : Check Angular application as PWA 
